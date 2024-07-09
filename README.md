@@ -1,6 +1,7 @@
 # Launch the: "Machine Learning with Databricks" Lab
 ----------------------------------------------
-# Download Course Materials: github.com/monaldoj-db/databricks-data-science-lab
+# Download Course Materials:
+# github.com/monaldoj-db/databricks-data-science-lab
 
 * First, click on _databricks-data-science-lab.dbc_ and download the raw file
 
